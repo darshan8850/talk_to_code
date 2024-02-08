@@ -1,0 +1,10 @@
+openai
+tiktoken
+langchain
+lancedb
+flask
+GitPython
+flask_cors
+asyncio
+python-dotenv
+pandas
